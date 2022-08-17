@@ -1,0 +1,66 @@
+.container{
+    /* border: 1px solid red; */
+    /* width: 90%; */
+    margin: 40px 10px;
+    /* padding: 10px; */
+    border-radius: 8px;
+}
+.container :hover{
+    /* border: 1px solid red; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+}
+
+.carou{
+    /* border: 1px solid green; */
+    width: 90%;
+    margin: auto;
+}
+
+
+
+
+.image{
+    /* --media-width: calc(75vw - 76px); */
+    height: calc(416px*9/16);
+    /* border: 1px solid red; */
+    width: 416px;
+    object-fit: cover;
+
+}
+
+.list{
+    display: flex;
+    gap:20px;
+    width: 90%;
+    margin: auto;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+
+
+
+
+
+/* style={{width:'90%',margin:'30px',padding:"10px",borderRadius:'8px',boxShadow: "rgba(149, 157, 165, 0.2) 0px 8px 24px"}} */
+
+
+
+/* Offline games
+Editors' Choice games
+Stylized games
+Non-stop action
+Games we are playing
+Puzzle games
+Casual games
+Realistic games
+Multiplayer games
+Match-3 games
+Sports games
+Cartoony games
+Anime games */
+
+
+
+
